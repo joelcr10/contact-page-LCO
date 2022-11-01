@@ -21,11 +21,10 @@ formNumber = false;
 formEmail = false;
 formCourse = false;
 
-document.getElementById("number-prompt").innerHTML="please enter whatsapp number";
 
 
 function validateName(){
-    console.log("sdfsdfsdfsdfs");
+    
     var name = document.getElementById("name").value;
     if(name.length<=0){
         document.getElementById("name-prompt").style.color="red";
