@@ -7796,8 +7796,8 @@ h1, h2, h3, h4, h5,
   color: black;
 }
 
-option:hover{
-  background-color: #019f6c;
+#choice option:hover{
+  background-color: red;
   cursor: pointer;
 }
 
