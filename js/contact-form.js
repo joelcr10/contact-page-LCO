@@ -10,7 +10,7 @@ $("#choice2").change(function () {
 });
 $("#choice2").change();
 
-console.log("sdfsdfsdfsdfs")
+
 
 
 formValidate = 0
@@ -21,7 +21,7 @@ formNumber = false;
 formEmail = false;
 formCourse = false;
 
-document.getElementById("number-prompt").innerHTML="please enter whatsapp number";
+
 
 
 function validateName(){
